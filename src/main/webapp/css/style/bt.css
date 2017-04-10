@@ -1,0 +1,455 @@
+/*body主体内容的样式设置*/
+/*共享样式*/
+body {
+    color: rgb(51, 51, 51);
+    font-size: 13px;
+    font-family: 'Microsoft YaHei', 微软雅黑, simsun, arial, helvetica, clean, sans-serif;
+    line-height: 1.63;
+    -webkit-user-select: none;
+}
+/*address, fieldset, dl, dt, dd, ol, ul, li{
+     margin: 0;
+     padding: 0;
+     border: 0;
+     outline: 0;
+     font-size: 100%;
+     background: transparent;
+ }*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, fieldset, big, cite, code, del, dfn, em, font, img, ins, input, button, select, textarea, small, strike, strong, sub, sup, var, b, u, i, center, dl, dt, dd, ol, ul, li, form, label, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: transparent;
+}
+ol, ul {
+     list-style: none;
+ }
+div {
+    display: block;
+}
+/*.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}*/
+
+/*top顶部样式设置*/
+div#top {
+    background: #f3f3f3;
+    padding: 0;
+    width: 1349px;
+    height: 30px;
+    font-size: 13px;
+    border-bottom: 1px solid #ddd;
+    z-index: 98;
+    margin: 0;
+}
+#top .t_cmainbar {
+    width: 990px;
+    margin: 0 auto;
+}
+#top .t_container {
+    margin: 0 15px;
+}
+/*top顶部左浮动样式*/
+.usercp {
+    float: left;
+    display: inline-block;
+    line-height: 30px;
+    width: 475px;
+}
+.usercp li {
+     float: left;
+     display: inline-block;
+     margin-right: 20px;
+ }
+/*a标签超链接样式*/
+a {
+    color: #474747;
+    text-decoration: none;
+}
+a:-webkit-any-link {
+   /* color: -webkit-link;
+    text-decoration: underline;*/
+    cursor: auto;
+}
+/*top顶部右浮动样式*/
+.usercpr {
+    float: right;
+    display: inline-block;
+    line-height: 30px;
+    width: 306px;
+}
+.usercpr li {
+    float: right;
+    display: inline-block;
+    margin-left: 20px;
+}
+/*定义mian div的长宽*/
+#wrapper {
+    background: #fff;
+    margin: 0 auto;
+    padding: 0;
+    width: 990px;
+    height: 1620px;
+}
+/*header样式设置*/
+#header {
+    background: #fff;
+    height: 90px;
+    padding: 0 15px 0 0;
+    text-align: left;
+}
+/*图片样式设置*/
+#logo {
+    float: left;
+    display: inline;
+    margin: 15px 0 0 15px;
+    overflow: hidden;
+    background: url(//www.btdx8.com/wp-content/themes/bttt8_2014/images/logo.png) no-repeat left center;
+    height: 60px;
+    width: 320px;
+}
+#logo a:hover {
+    text-decoration: none;
+}
+/*左边图片超链接设置*/
+#logo a {
+    display: block;
+    height: 60px;
+    width: 320px;
+}
+a:hover {
+    color: #ff7b00;
+    /*text-decoration: underline;*/
+}
+#logo span {
+    display: none;
+}
+/*右边搜索栏样式设置*/
+.header-search {
+    float: right;
+    display: inline;
+    width: 360px;
+    height: 60px;
+    overflow: hidden;
+    margin: 10px 0 0 0;
+    text-align: right;
+}
+/*搜索栏表单样式*/
+#searchform, .bdcs-search-form {
+    background: #fff;
+    border: 2px solid #ff7b00;
+    height: 40px;
+    margin-top: 15px;
+}
+/*搜索栏输入框样式*/
+#searchform input#s, .bdcs-search-form-input {
+    float: left;
+    background: #fff;
+    width: 240px;
+    height: 32px;
+    padding: 4px 7px 4px 7px;
+    font-size: 14px;
+    line-height: 32px;
+    color: #999;
+}
+#searchform input, .bdcs-container, .bdcs-search-form-input {
+    display: block;
+    border: 0;
+}
+input, button, select, textarea, option {
+    font: 12px arial,serif;
+}
+
+#searchform .searchsubmit, .bdcs-search-form-submit {
+    float: right;
+    display: inline;
+    background: none repeat scroll 0 0 #ff7b00;
+    width: 100px;
+    height: 40px;
+    overflow: hidden;
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+    line-height: 40px;
+}
+input, button, select, textarea, option {
+    font: 12px arial,serif;
+}
+
+
+/*GPS导航栏样式设置*/
+#GPS{
+    width: 990px;
+    height: 50px;
+}
+#GPS .Toolbar1 .CentreBox .Menu .List1 {
+    width: 960px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    list-style-type: none;
+    position: relative;
+    left: 15px;
+    background: #ff7b00;
+}
+#GPS .Toolbar1 .CentreBox .Menu .List1 li {
+    width: 68px;
+    float: left;
+    height: 50px;
+    line-height:50px;
+}
+#GPS .Toolbar1 .CentreBox .Menu .List1 a {
+    color: white;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+    width: 68px;
+}
+/*鼠标悬停变色*/
+.li:hover{
+    background: #4682B4;
+}
+
+/*main部分今日热门样式设置*/
+#main {
+    width: 990px;
+    height: 1093px;
+    padding-bottom: 20px;
+}
+#homepage.lazyload{
+    width: 990px;
+    height: 419px;
+    padding: 10px 15px 0;
+}
+#slider-wrap {
+    display: inline;
+    float: left;
+    width: 960px;
+    height: 409px;
+}
+#slider-wrap .cat-title, #lasted .cat-title, #home-col .cat-title, #digg .cat-title {
+    display: block;
+    background: #f9f9f9;
+    padding: 0 5px;
+    border-bottom: 1px solid #ff070e;
+    border-top: 1px solid #eee;
+    height: 30px;
+    line-height: 30px;
+    clear: both;
+    position: relative;
+}
+#slider-wrap h2, #lasted .cat-title h2, #home-col .cat-title h2, #digg .cat-title h2 {
+    display: inline;
+    float: left;
+    font-size: 16px;
+}
+.slider {
+    float: left;
+    width: 960px;
+    height: 377px;
+    padding-top: 15px;
+    position: relative;
+}
+.slider li {
+    float: left;
+    margin-bottom: 10px;
+    margin-right:17px;
+    width: 120px;
+    height: 171px;
+    position: relative;
+}
+/*超链接样式*/
+.slider li a {
+    display: block;
+    width: 120px;
+    color: #ff7b00;
+    font-weight: bold;
+}
+/*entry-rating样式*/
+.slider .entry-rating {
+    filter: alpha(opacity=90);
+    position: absolute;
+    top: 132px;
+    background-color: #484848;
+    padding: 0 5px;
+    font-size: 8px;
+    opacity: .9;
+    right: 0;
+    overflow: hidden;
+    height: 18px;
+    line-height: 18px;
+    z-index: 100;
+    color: #fff;
+}
+/*cap名称样式*/
+.slider .cap {
+    overflow: hidden;
+    width: 120px;
+    font-size: 10px;
+    white-space: nowrap;
+    text-align: center;
+}
+
+
+/*main里left部分样式*/
+#home-left {
+    width: 630px;
+    height: 636px;
+    float: left;
+    margin: 15px 0 0 12px;
+}
+#home-left .new-cat-title, #home-right .top-cat-title {
+    display: block;
+    background: #f9f9f9;
+    padding: 0 5px;
+    border-bottom: 1px solid #ff070e;
+    border-top: 1px solid #eee;
+    height: 30px;
+    line-height: 30px;
+    clear: both;
+    position: relative;
+}
+.new-cat-title h2, .top-cat-title h2 {
+    font-size: 16px;
+    float: left;
+}
+.new-cat-title span, .top-cat-title span {
+    float: right;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.new-home-box ul li {
+    float: left;
+    margin-top: 10px;
+    margin-right: 15px;
+    width: 90px;
+    height: 141px;
+}
+/*.new-home-box .cap,.new-home-box .new{*/
+    /*text-align: center;*/
+    /*color: #ff7b00;*/
+    /*font-size: 14px;*/
+/*}*/
+.new-home-box .cap, .top-home-box .cap {
+    overflow: hidden;
+    text-align: center;
+    white-space: nowrap;
+    width: 90px;
+    font-size: 14px;
+}
+.new-home-box .new {
+    color: #ff070e;
+}
+
+
+/*main里right部分样式*/
+#home-right {
+    width: 310px;
+    float: right;
+    margin-top: 15px;
+    padding-right: 10px;
+}
+.top-home-box ul li {
+    border-bottom: 1px dotted #ddd;
+    float: left;
+    padding: 8px 0;
+    width: 310px;
+    font-size: 14px;
+}
+.top-home-box .topthree .top_number, .widget-posts .topthree .top_number {
+    background: #ff14a7;
+}
+.top-home-box .top_number, .widget-posts .top_number {
+    background: #aaa;
+    color: #fff;
+    float: left;
+    font-size: 13px;
+    height: 15px;
+    line-height: 15px;
+    margin: 2px 3px 0 0;
+    text-align: center;
+    width: 20px;
+}
+.top-home-box .t-title {
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 285px;
+}
+
+/*main里bottom部分*/
+#bottom {
+    background: #fff;
+    overflow: hidden;
+    width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+#bottom .inner {
+    float: left;
+    display: inline;
+    width: 960px;
+    padding: 0;
+    margin: 0 15px 20px 0;
+    border-bottom: 0;
+}
+.widgets.widget_wpgp_tags {
+    margin-bottom: 15px;
+}
+#bottom h2 {
+    border-bottom: 1px solid #ff070e;
+    border-top: 1px solid #eee;
+    background: #f9f9f9;
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 5px;
+    position: relative;
+}
+#sidebar .tags, #bottom .tags, #tag-page .tags {
+    display: block;
+    padding-top: 10px;
+    font-size: 14px;
+}
+#sidebar .tags a, #bottom .tags a, #tag-page .tags a {
+    display: inline-block;
+    padding: 1px 3px;
+    background: #f9f9f9;
+    margin: 0 1px 5px 0;
+}
+#bottom ul.blogroll li {
+    float: left;
+    display: inline;
+    width: 10%;
+    margin-right: 14px;
+}
+#bottom ul li {
+    border-top: 1px dotted #e0e0e0;
+    padding: 6px 0 6px 10px;
+    background: url(//www.btdx8.com/wp-content/themes/bttt8_2014/images/ico-bullet.gif) no-repeat 0 14px;
+    position: relative;
+}
+#footer {
+    width: 100%;
+    background: darkslategray;
+    color: white;
+    overflow: hidden;
+    margin-top: 2px;
+    padding: 15px 0 10px;
+    line-height: 20px;
+    text-align: center;
+    position: absolute;
+}
+#footer a{
+    color: darkblue;
+}

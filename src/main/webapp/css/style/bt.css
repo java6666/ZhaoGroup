@@ -7,14 +7,6 @@ body {
     line-height: 1.63;
     -webkit-user-select: none;
 }
-/*address, fieldset, dl, dt, dd, ol, ul, li{
-     margin: 0;
-     padding: 0;
-     border: 0;
-     outline: 0;
-     font-size: 100%;
-     background: transparent;
- }*/
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, fieldset, big, cite, code, del, dfn, em, font, img, ins, input, button, select, textarea, small, strike, strong, sub, sup, var, b, u, i, center, dl, dt, dd, ol, ul, li, form, label, table, caption, tbody, tfoot, thead, tr, th, td {
     margin: 0;
     padding: 0;
@@ -29,13 +21,7 @@ ol, ul {
 div {
     display: block;
 }
-/*.clearfix:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
-}*/
+
 
 /*top顶部样式设置*/
 div#top {
@@ -72,11 +58,6 @@ a {
     color: #474747;
     text-decoration: none;
 }
-a:-webkit-any-link {
-   /* color: -webkit-link;
-    text-decoration: underline;*/
-    cursor: auto;
-}
 /*top顶部右浮动样式*/
 .usercpr {
     float: right;
@@ -110,7 +91,7 @@ a:-webkit-any-link {
     display: inline;
     margin: 15px 0 0 15px;
     overflow: hidden;
-    background: url(//www.btdx8.com/wp-content/themes/bttt8_2014/images/logo.png) no-repeat left center;
+    background: url("../images/logo.png") no-repeat left center;
     height: 60px;
     width: 320px;
 }
@@ -125,7 +106,6 @@ a:-webkit-any-link {
 }
 a:hover {
     color: #ff7b00;
-    /*text-decoration: underline;*/
 }
 #logo span {
     display: none;
@@ -162,10 +142,6 @@ a:hover {
     display: block;
     border: 0;
 }
-input, button, select, textarea, option {
-    font: 12px arial,serif;
-}
-
 #searchform .searchsubmit, .bdcs-search-form-submit {
     float: right;
     display: inline;
@@ -177,9 +153,6 @@ input, button, select, textarea, option {
     color: #fff;
     font-size: 16px;
     line-height: 40px;
-}
-input, button, select, textarea, option {
-    font: 12px arial,serif;
 }
 
 
@@ -435,10 +408,13 @@ input, button, select, textarea, option {
 }
 #bottom ul li {
     border-top: 1px dotted #e0e0e0;
-    padding: 6px 0 6px 10px;
-    background: url(//www.btdx8.com/wp-content/themes/bttt8_2014/images/ico-bullet.gif) no-repeat 0 14px;
+    padding: 8px 0 6px 18px;
+    background: url("../images/logo02.JPG") no-repeat 0 14px;
     position: relative;
 }
+
+
+/*结尾footer部分样式设置*/
 #footer {
     width: 100%;
     background: darkslategray;

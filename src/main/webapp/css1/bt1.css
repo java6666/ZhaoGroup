@@ -1,0 +1,353 @@
+body {
+    color: rgb(51, 51, 51);
+    font-size: 13px;
+    font-family: 'Microsoft YaHei', 微软雅黑, simsun, arial, helvetica, clean, sans-serif;
+    line-height: 1.63;
+    -webkit-user-select: none;
+    width: 1349px;
+    height: 1649px;
+}
+div {
+     display: block;
+ }
+address, fieldset, dl, dt, dd, ol, ul, li{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: transparent;
+}
+html, body, div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: transparent;
+}
+div#top {
+    background: #f3f3f3;
+    padding: 0;
+    width: 1349px;
+    height: 30px;
+    font-size: 13px;
+    border-bottom: 1px solid #ddd;
+    z-index: 98;
+    margin: 0;
+}
+#top .t_cmainbar {
+    width: 990px;
+    margin: 0 auto;
+}
+#top .t_container {
+    margin: 0 15px;
+}
+.usercp {
+    float: left;
+    display: inline-block;
+    line-height: 30px;
+    width: 500px;
+}
+.usercp li {
+     float: left;
+     display: inline-block;
+     margin-right: 20px;
+ }
+a {
+    color: #474747;
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    /*color: -webkit-link;*/
+    /*text-decoration: underline;*/
+    cursor: auto;
+}
+.usercpr {
+    float: right;
+    display: inline-block;
+    line-height: 30px;
+    width: 350px;
+}
+.usercpr li {
+    float: right;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#Container{
+    width:100%;
+    margin:0 auto;/*设置整个容器在浏览器中水平居中*/
+}
+#Header{
+    height:25px;
+    background:gainsboro;
+    padding-top:8px;
+    text-align: center;
+}
+#Logo{
+    overflow: auto;
+    width: 20%;
+    margin-top:15px;
+}
+#Content{
+    overflow: auto;
+    width: 70%;
+    /*此处对容器设置了高度，一般不建议对容器设置高度，一般使用overflow:auto;
+    属性设置容器根据内容自适应高度，如果不指定高度或不设置自适应高度，
+    容器将默认为1个字符高度，容器下方的布局元素（footer）设置margin-top:属性将无效*/
+    margin-top:1px;/*此处讲解margin的用法，设置content与上面header元素之间的距离*/
+    margin-left:15%;
+
+}
+#one{
+    float: left;
+}
+#two{
+    margin-top: 10px;
+    float: right;
+}
+#z-1-1{
+    float: left;
+}
+#z-1-2{
+    float:left;
+
+}
+#z-1-3{
+    overflow: auto;
+    height: 100%;
+    width: 15%;
+    float: left;
+    margin-top: 10px;
+
+}
+#z-1-4{
+    float:left;
+    width: 70%;
+    height: 100%;
+    margin-top: 10px;
+}
+
+#z-1-4-1{
+    width: 100%;
+    height: 40px;
+    background-color: blueviolet;
+}
+#z-1-4-2{
+    margin-top: 10px;
+    width: 70%;
+    float: left;
+    height: 1600px;
+    background-color: beige;
+}
+#a-5{
+    float: left;
+    height: 1600px;
+    width: 30%;
+    margin-top: 10px;
+}
+#z-1-4-2-1{
+    width: 100%;
+    height: 35px;
+}
+#z-1-4-2-2{
+    margin-top: 20px;
+    height: 70px;
+
+}
+#z-1-4-2-3{
+    margin-top: 5px;
+    height: 30px;
+}
+#z-1-4-2-4{
+    margin-top: 20px;
+    height: 250px;
+    background-color:darkgoldenrod;
+}
+#z-1-4-2-4-1{
+    float: left;
+    height: 100%;
+    width: 25%;
+    background-color: blue;
+}
+#z-1-4-2-4-2{
+    float: left;
+    width: 75%;
+    height: 100%;
+    background-color: azure;
+}
+
+/*  #Content-Left{
+      height:400px;
+      width:200px;
+      margin:20px;!*设置元素跟其他元素的距离为20像素*!
+      float:left;!*设置浮动，实现多列效果，div+Css布局中很重要的*!
+      background:#90C;
+  }
+  #Content-Main{
+      height:400px;
+      width:720px;
+      margin:20px;!*设置元素跟其他元素的距离为20像素*!
+      float:left;!*设置浮动，实现多列效果，div+Css布局中很重要的*!
+      background:#90C;
+  }*/
+/*注：Content-Left和Content-Main元素是Content元素的子元素，两个元素使用了float:left;设置成两列，这个两个元素的宽度和这个两个元素设置的padding、margin的和一定不能大于父层Content元素的宽度，否则设置列将失败*/
+#Footer{
+    height:40px;
+    background:#90C;
+    margin-top:20px;
+}
+.s-1{
+    height: 40px;
+    width: 300px;
+    border-color: orange;
+}
+.s-2{
+    height: 40px;
+    width: 100px;
+    border-color: orange;
+    background-color: orange;
+}
+.s-3{
+    font-family: 黑体;
+    color: orangered;
+}
+span{
+    font-family: 黑体;
+}
+#movie_info{
+    font-size: 14px;
+    font-family: 黑体;
+}
+/*GPS导航栏样式设置*/
+#GPS .Toolbar1 .CentreBox .Menu .List1 {
+    width: 100%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    list-style-type: none;
+    position: relative;
+
+    background: #ff7b00;
+}
+#GPS .Toolbar1 .CentreBox .Menu .List1 li {
+    width: 65px;
+    float: left;
+    height: 50px;
+    line-height:50px;
+}
+#GPS .Toolbar1 .CentreBox .Menu .List1 a {
+    color: white;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+    width: 68px;
+}
+/*鼠标悬停变色*/
+.li:hover{
+    background: #4682B4;
+}
+#a-1{
+    width: 100%;
+    height: 200px;
+}
+.a-3{
+    margin-top: 10px;
+    height: 50px;
+    background-color: #f3f3f3;
+}
+
+.a-5{
+    padding-top: 10px;
+    height: 40px;
+    width: 20%;
+    float: left;
+    background-color: orangered;
+}
+.a-6{
+    tab-size: 10px;
+    height: 50px;
+    width: 80%;
+    float: left;
+}
+.top_number{
+    float: left;
+    width: 15px;
+    background-color:orangered ;
+}
+.top_number1{
+    float: left;
+    width: 15px;
+    background-color:darkgrey ;
+}
+.xuxian ul li {
+    border-bottom: 1px dotted #ddd;
+    float: left;
+    padding: 8px 0;
+    width: 310px;
+    font-size: 14px;
+}
+a:hover{
+    color: orangered;
+}
+.xuxian .yingchang{
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 285px;
+
+}
+#cai_ni_xi_huan1 .yingchang{
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+
+}
+#cai_ni_xi_huan1 ul li{
+    border-bottom: 1px dotted #ddd;
+    float: left;
+    padding: 8px 0;
+    width: 33%;
+    font-size: 14px;
+}
+.lian{
+    float: left;
+}
+#footer{
+    float: left;
+    width: 100%;
+    height: 120px;
+    text-align: center;
+    color: #dddddd;
+    background-color: #222222;
+}
+.wrap{
+    font-size: 13px;
+}
+
+
+/* bt2_Ye*/
+
+
+.daxiao{
+    margin-top: 5px;
+    height: 150px;
+    width: 100%;
+}
+.daxiao1{
+    height: 150px;
+    width: 14.2%;
+    float: left;
+}
+.daxiao3{
+    height: 150px;
+    width: 85.8%;
+    float: left;
+}

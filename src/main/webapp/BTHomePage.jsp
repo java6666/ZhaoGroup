@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>鑫视界_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="../css/bootstrap.css" rel="stylesheet" type="text/css"/>
-    <link href="../css/style/bt.css" rel="stylesheet" type="text/css"/>
-    <script src="../jquery/jquery-2.2.4.min.js" type="text/javascript"></script>
+    <link href="/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    <link href="css/style/bt.css" rel="stylesheet" type="text/css"/>
+    <script src="/jquery/jquery-2.2.4.min.js" type="text/javascript"></script>
 </head>
 <body>
 <!--顶部第一部分-->
@@ -26,7 +26,6 @@
                 <script type="text/javascript"
                         src="http://www.btdx8.com/wp-content/themes/bttt8_2014/js/language.js"></script>
             </ul>
-            <div class="clearfix"></div>
         </div>
     </div>
 </div>
@@ -222,20 +221,8 @@
 
         <!--main里最近更新部分-->
         <div id="home-left">
-            <div class="new-cat-title"><h2>最近更新</h2><span><a href="http://www.btdx8.com/newmovie"
-                                                             title="查看完整最近更新列表" rel="bookmark">更多 »</a></span>
-                <div class="new-share">
-                    <div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1491704745930"><a href="#"
-                                                                                                           class="bds_qzone"
-                                                                                                           data-cmd="qzone"
-                                                                                                           title="分享到QQ空间"></a><a
-                            href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq"
-                                                                                               data-cmd="tqq"
-                                                                                               title="分享到腾讯微博"></a><a
-                            href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_more"
-                                                                                               data-cmd="more"></a><a
-                            class="bds_count" data-cmd="count" title="累计分享588次">600</a></div>
-                </div>
+            <div class="new-cat-title"><h2>最近更新</h2>
+                <span><a href="http://www.btdx8.com/newmovie" title="查看完整最近更新列表" rel="bookmark">更多 »</a></span>
             </div>
             <div class="new-home-box">
                 <ul>
@@ -448,81 +435,81 @@
                         <a class="t-title" href="http://www.btdx8.com/torrent/the_tunnel_2016.html"
                            title="[隧道][BD-720P-MKV][韩语中字][豆瓣7.6分][1.62GB][2016] BT种子" rel="bookmark" target="_blank">[隧道][BD-720P-MKV][韩语中字][豆瓣7.6分][1.62GB][2016]</a>
                     </li>
-                    <li class="  topthree">
+                    <li class="topthree">
                         <div class="top_number">02</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/doctor_strange_2016.html"
                            title="[奇异博士][BD-720P/1080P-MP4][英语中字][豆瓣7.8分][1.6GB/4.92GB][2016] BT种子" rel="bookmark"
                            target="_blank">[奇异博士][BD-720P/1080P-MP4][英语中字][豆瓣7.8分][1.6GB/4.92GB][2016]</a></li>
-                    <li class="  topthree">
+                    <li class="topthree">
                         <div class="top_number">03</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/the_great_wall_2016.html"
                            title="[长城][HD-1080P-MP4][国语中字][豆瓣5.0分][3.03GB][2016] BT种子" rel="bookmark" target="_blank">[长城][HD-1080P-MP4][国语中字][豆瓣5.0分][3.03GB][2016]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">04</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/godzilla_resurgence_2016.html"
                            title="[新哥斯拉][BD-720P-MP4][日语中字][豆瓣6.5分][2.62GB][2016] BT种子" rel="bookmark" target="_blank">[新哥斯拉][BD-720P-MP4][日语中字][豆瓣6.5分][2.62GB][2016]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">05</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/underworld_blood_wars_2016.html"
                            title="[黑夜传说5：血战][BD-720P/1080P-MP4][英语中字][豆瓣5.6分][1.1GB/2.7GB][2016] BT种子" rel="bookmark"
                            target="_blank">[黑夜传说5：血战][BD-720P/1080P-MP4][英语中字][豆瓣5.6分][1.1GB/2.7GB][2016]</a></li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">06</div>
                         <a class="t-title"
                            href="http://www.btdx8.com/torrent/fantastic_beasts_and_where_to_find_them_2016.html"
                            title="[神奇动物在哪里][BD-720P/1080P-MP4][英语中字][豆瓣7.9分][1.6GB/4.62GB][2016] BT种子" rel="bookmark"
                            target="_blank">[神奇动物在哪里][BD-720P/1080P-MP4][英语中字][豆瓣7.9分][1.6GB/4.62GB][2016]</a></li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">07</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/arrival_2016.html"
                            title="[降临][BD-720P/1080P-MP4][英语中字][豆瓣7.8分][1.62GB/1.94GB][2016] BT种子" rel="bookmark"
                            target="_blank">[降临][BD-720P/1080P-MP4][英语中字][豆瓣7.8分][1.62GB/1.94GB][2016]</a></li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">08</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/pandora_2016.html"
                            title="[潘多拉][HD-720P-MP4][韩语中字][豆瓣7.3分][2.21GB][2016] BT种子" rel="bookmark" target="_blank">[潘多拉][HD-720P-MP4][韩语中字][豆瓣7.3分][2.21GB][2016]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">09</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/hacksaw_ridge_2016.html"
                            title="[血战钢锯岭][BD-720P/1080P/2160P-MP4][英语中字][豆瓣8.7分][1.8GB/2.88GB/5.81GB][2016] BT种子"
                            rel="bookmark" target="_blank">[血战钢锯岭][BD-720P/1080P/2160P-MP4][英语中字][豆瓣8.7分][1.8GB/2.88GB/5.81GB][2016]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">10</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/passengers_2016.html"
                            title="[太空旅客][BD-1080P-MP4][英语中字][豆瓣6.9分][3.45GB][2016] BT种子" rel="bookmark" target="_blank">[太空旅客][BD-1080P-MP4][英语中字][豆瓣6.9分][3.45GB][2016]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">11</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/assassins_creed_2016.html"
                            title="[刺客信条][BD-720P/1080P-MP4][英语中字][豆瓣5.5分][1.47GB/3.32GB][2016] BT种子" rel="bookmark"
                            target="_blank">[刺客信条][BD-720P/1080P-MP4][英语中字][豆瓣5.5分][1.47GB/3.32GB][2016]</a></li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">12</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/patriots_day_2017.html"
                            title="[爱国者日][BD-1080P-MP4][英语中字][豆瓣8.0分][4.52GB][2017] BT种子" rel="bookmark" target="_blank">[爱国者日][BD-1080P-MP4][英语中字][豆瓣8.0分][4.52GB][2017]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">13</div>
                         <a class="t-title"
                            href="http://www.btdx8.com/torrent/journey_to_the_west_the_demons_strike-back_2017.html"
                            title="[西游伏妖篇][TS-1080P-MP4][国语中字][豆瓣5.8分][2.15GB][2017] BT种子" rel="bookmark"
                            target="_blank">[西游伏妖篇][TS-1080P-MP4][国语中字][豆瓣5.8分][2.15GB][2017]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">14</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/la_la_land_2016.html"
                            title="[爱乐之城][DVD-MP4][英语中字][豆瓣8.9分][1.56GB][2016] BT种子" rel="bookmark" target="_blank">[爱乐之城][DVD-MP4][英语中字][豆瓣8.9分][1.56GB][2016]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">15</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/cell_2016.html"
                            title="[致命电话][BD-720P-MKV][英语中字][豆瓣4.6分][1.19GB][2016] BT种子" rel="bookmark" target="_blank">[致命电话][BD-720P-MKV][英语中字][豆瓣4.6分][1.19GB][2016]</a>
                     </li>
-                    <li class=" ">
+                    <li>
                         <div class="top_number">16</div>
                         <a class="t-title" href="http://www.btdx8.com/torrent/resident_evil_the_final_chapter_2016.html"
                            title="[生化危机：终章][BD-720P/1080P-MP4][英语中字][豆瓣6.7分][1.88GB/2.62GB][2016] BT种子" rel="bookmark"
@@ -624,8 +611,8 @@
                             target="_blank">比尔·奈伊</a> <a href="http://www.btdx8.com/tag/%e5%90%b4%e5%90%9b%e5%a6%82"
                                                          target="_blank">吴君如</a></div>
                 </div>
-                <div id="linkcat-25" class="widgets widget_links"><h2>友情链接</h2>
-                    <ul class="xoxo blogroll">
+                <div><h2>友情链接</h2>
+                    <ul class="blogroll">
                         <li><a href="http://www.btdx8.com/" target="_blank">比特大雄</a></li>
                         <li><a href="http://www.btdx8.com/tag_new" target="_blank">最新标签</a></li>
                         <li><a href="http://www.btdx8.com/tag_hot" target="_blank">热门标签</a></li>
@@ -648,8 +635,6 @@
                     </ul>
                 </div>
             </div>
-            <div class="inner"></div>
-            <div class="inner last"></div>
         </div>
     </div>
 
@@ -661,10 +646,11 @@
     <div class="wrap">
         <p>鑫视界资源网欢迎您!</p>
         <p>© 2017 <a href="#" title="鑫视界" rel="home">
-            <strong>鑫视界</strong></a>. All rights reserved.</p>
-        <p></p>
-        <p><a href="#" title="鑫视界" rel="home">鑫视界</a>（BT资源网）===最新720P·1080P高清·电影BT种子·免注册下载网站</p>
+            <strong>鑫视界</strong></a>.Download the update</p>
+        <p><a href="#" title="鑫视界" rel="home">鑫视界</a>
+            （BT资源网）===最新720P·1080P高清·电影BT种子·免注册下载网站</p>
         <p>本站所有资源来自互联网，如果无意中侵犯了您的权利，请联系邮箱：gmlsuccess@163.com</p></div>
 </div>
+
 </body>
 </html>

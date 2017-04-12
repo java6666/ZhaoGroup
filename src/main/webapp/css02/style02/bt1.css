@@ -320,22 +320,24 @@ a:hover{
 .lian{
     float: left;
 }
+
+/*结尾部分样式*/
+
 #footer{
     float: left;
     width: 100%;
     height: 120px;
     text-align: center;
-    color: #dddddd;
-    background-color: #222222;
+    color: white;
+    background: darkslategray;
 }
-.wrap{
-    font-size: 13px;
+#footer a{
+    color: darkblue;
 }
+
 
 
 /* bt2_Ye*/
-
-
 .daxiao{
     margin-top: 5px;
     height: 150px;

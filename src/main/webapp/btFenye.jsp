@@ -1,15 +1,9 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: hero
-  Date: 2017/4/6
-  Time: 18:38
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>比特大雄_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="../css1/bt1.css"rel="stylesheet" type="text/css">
+    <link href="/css02/style02/bt1.css"rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -48,7 +42,7 @@
 
              <%--log图和搜索框--%>
     <div id="Content">
-        <div id="one"><a><img src="../img/logo.png"style="width: 250px;height: 50px;"></a></div>
+        <div id="one"><a><img src="../css02/img/logo.png"style="width: 250px;height: 50px;"></a></div>
         <div id="two">
             <form method="get" id="searchform" action="http://www.btdx8.com/">
                 <div id="z-1-1">
@@ -113,7 +107,7 @@
                 [大漠孤侠][HD-1080P/2160P-MP4][国语中字][1.39GB/3.34GB][2017][BT下载/迅雷下载]</h3></div>
             <div id="z-1-4-2-3">来源：网友投稿|发布：2017-10-3|去抢沙发|豆瓣影评|</div>
             <div id="z-1-4-2-4">
-                <div id="z-1-4-2-4-1"><img src="/img/tu-1.jpg"width="100%" height="100%"></div>
+                <div id="z-1-4-2-4-1"><img src="../css02/img/tu-1.jpg"width="100%" height="100%"></div>
                 <div id="z-1-4-2-4-2">
                  <div id="movie_info">导演: <a href="http://www.btdx8.com/tag/%e5%a4%a7%e6%a0%b9%e4%bb%81"
                             target="_blank" rel="bookmark">大根仁</a><br> 编剧: 大根仁 /
@@ -155,13 +149,13 @@
                     的人分离的现实。
                 <br/> 该片为导演赵成熙的首部商业电影处女作。
                 </div>
-                <div id="a-1"><img src="../img/shatan.jpg" style="width: 100%;height: 300px">
+                <div id="a-1"><img src="../css02/img/shatan.jpg" style="width: 100%;height: 300px">
                  <div id="a-2" style="color: orangered;font-family: 黑体;font-size: 18px;">
                      <h3>|浪骚年bt下载/迅雷下载地址</h3>
                 </div>
                 <div class="a-3" >
                     <div class="a-5">
-                <a><span class="a-4"><img src="../img/xiaozai.png">
+                <a><span class="a-4"><img src="../css02/img/xiaozai.png">
                     720P种子</span>
                 </a>
                     </div>
@@ -171,7 +165,7 @@
                 </div>
                      <div class="a-3" >
                     <div class="a-5">
-                <a><span class="a-4"><img src="../img/xiaozai.png">
+                <a><span class="a-4"><img src="../css02/img/xiaozai.png">
                     720P种子</span>
                 </a>
                     </div>
@@ -276,7 +270,7 @@
 
             <%--右边部分--%>
 <div id="a-5">
-    <div><img src="../img/544.gif"style="width: 100%;height: 350px"></div>
+    <div><img src="../css02/img/544.gif"style="width: 100%;height: 350px"></div>
     <div>
         <h3>最新专题<hr color="orangered"></h3>
         <div class="xuxian">
@@ -395,7 +389,7 @@
         </div>
 </div>
         <div>
-            <img src="../img/yaobud%20(2).gif" style="width: 300px;height: 330px">
+            <img src="../css02/img/yaobud%20(2).gif" style="width: 300px;height: 330px">
         </div>
     </div>
 
@@ -409,12 +403,12 @@
 <%--底部--%>
         <div id="footer">
             <div class="wrap">
-            <p>© 2017 <a href="http://www.btdx8.com/" title="BT兔子" rel="home">
-                <strong>BT兔子</strong></a>. All rights reserved.</p>
-            <p></p><p><a href="http://www.btdx8.com/" title="比特大雄" rel="home">BT兔子</a>
-            （BT天堂吧）——最新<a href="http://www.btdx8.com/">720P</a>、<a href="http://www.btdx8.com/">
-                1080P</a><a href="http://www.btdx8.com/">高清电影BT种子</a>免注册下载网站</p>
-            <p>本站所有资源来自互联网，如果无意中侵犯了您的权利，请与我们联系：hibttt8@gmail.com</p>
+                <p>鑫视界资源网欢迎您!</p>
+                <p> 2017 <a href="#" title="鑫视界" rel="home">
+                    <strong>鑫视界</strong></a>.Download the update</p>
+                <p><a href="#" title="鑫视界" rel="home">鑫视界</a>
+                    （BT资源网）===最新720P·1080P高清·电影BT种子·免注册下载网站</p>
+                <p>本站所有资源来自互联网，如果无意中侵犯了您的权利，请联系邮箱：gmlsuccess@163.com</p>
             </div></div>
 </body>
 </html>

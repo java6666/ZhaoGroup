@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>鑫视界_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="/css/bootstrap.css" rel="stylesheet" type="text/css"/>
     <link href="css/style/bt.css" rel="stylesheet" type="text/css"/>
-    <script src="/jquery/jquery-2.2.4.min.js" type="text/javascript"></script>
+
 </head>
 <body>
 <!--顶部第一部分-->

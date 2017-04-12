@@ -9,5 +9,5 @@
     <mvc:annotation-driven/>
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver"/>
     <mvc:resources mapping="/css/**" location="/css/"/>
-    <mvc:resources mapping="/css1/**" location="/css1/"/>
+    <mvc:resources mapping="/css02/**" location="/css02/"/>
 </beans>

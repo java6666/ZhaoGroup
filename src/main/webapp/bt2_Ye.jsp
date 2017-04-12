@@ -1,15 +1,9 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: hero
-  Date: 2017/4/10
-  Time: 19:05
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>比特大雄_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="../css1/bt1.css"rel="stylesheet" type="text/css">
+    <link href="css1/style1/bt1.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>

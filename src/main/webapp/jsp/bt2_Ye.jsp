@@ -38,7 +38,7 @@
 <div id="Container">
     <div id="Logo"></div>
     <div id="Content">
-        <div id="one"><a><img src="../img/log.jpg"style="width: 250px;height: 50px;"></a></div>
+        <div id="one"><a><img src="../img/logo.png"style="width: 250px;height: 50px;"></a></div>
         <div id="two">
             <form method="get" id="searchform" action="http://www.btdx8.com/">
                 <div id="z-1-1">
@@ -92,23 +92,171 @@
           <div class="daxiao1">
               <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
           </div>
-          <div class="daxiao3">
+          <div class="daxiao3"><div class="cc8">
                   <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
                      title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
                      rel="bookmark" target="_blank">
-                      [金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</a>
-
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
           </div>
          </div><hr/>
              <div class="daxiao">
-3333333
-         </div>
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3"><div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+          </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/>
+
          </div>
 
          </div>
         </div>
         <div id="a-5">
-            <div><img src="../img/544.gif"style="width: 100%;height: 350px"></div>
             <div>
                 <h3>最新专题<hr color="orangered"></h3>
                 <div class="xuxian">
@@ -162,76 +310,123 @@
                     <h3>动作片排名<hr color="orangered"></h3>
                     <div class="xuxian">
                         <ul type="none" style="font-size: 13px;">
-                            <li ><div class="top_number">
-                                01</div><a class="yingchang" href="http://www.btdx8.com/torrent/one_night_only_2016.html"
-                                           title="[天亮之前][BD-720P/1080P-MKV][粤国双语中字][豆瓣5.6分][1.26GB/5.73GB][2016]"
-                                           rel="bookmark" target="_blank">
-                                [天亮之前][BD-720P/1080P-MKV][粤国双语中字][豆瓣5.6分][1.26GB/5.73GB][2016]
-                            </a></li>
-                            <li class="clearfix  topthree"><div class="top_number">
-                                02</div><a class="yingchang" href="http://www.btdx8.com/torrent/finding_mr_right2_2016.html"
-                                           title="[北京遇上西雅图之不二情书][BD-720P/1080P-MP4]
-                           [国语中字][豆瓣6.5分][2.7GB/5.6GB][2016]" rel="bookmark"
-                                           target="_blank"> [北京遇上西雅图之不二情书][BD-720P/1080P-MP4][国语中字]
-                                [豆瓣6.5分][2.7GB/5.6GB][2016]
+                                <li>
+                                    <div class="top_number">01</div>
+                                    <a href="http://www.btdx8.com/torrent/fast_furious_7_2015.html"
+                 title="[速度与激情7][加长版][BD-720P/1080P-MP4][英语特效中字][豆瓣8.4分][2.8GB/6.1GB][2015]"
+                                       rel="bookmark" target="_blank">
+             [速度与激情7][加长版][BD-720P/1080P-MP4][英语特效中字][豆瓣8.4分][2.8GB/6.1GB][2015]
+                                    </a></li>
+                            <li class="clearfix  topthree">
+               <div class="top_number">02</div>
+                <a href="http://www.btdx8.com/torrent/zhongkui_snow_girl_and_the_dark_crystal_2015.html"
+                   title="[钟馗伏魔：雪妖魔灵][HD-720P/1080P-MP4][国语中字][豆瓣4.3分][2.2GB/2.5GB][2015]"
+                   rel="bookmark" target="_blank">
+                    [钟馗伏魔：雪妖魔灵][HD-720P/1080P-MP4][国语中字][豆瓣4.3分][2.2GB/2.5GB][2015]
+                </a></li>
+                <li class="clearfix  topthree"><div class="top_number">03</div>
+                    <a href="http://www.btdx8.com/torrent/mechanic_resurrection_2016.html"
+                       title="[机械师2：复活][BD-1080P-MP4][英语中字][豆瓣5.7分][2.9GB][2016]"
+                       rel="bookmark" target="_blank">
+                        [机械师2：复活][BD-1080P-MP4][英语中字][豆瓣5.7分][2.9GB][2016]
+                    </a></li><li class="clearfix  topthree"><div class="top_number">
+                            04</div><a href="http://www.btdx8.com/torrent/operation_mekong_2016.html"
+                                       title="[湄公河行动][BD-720P/1080P-MKV][国语中字][豆瓣8.0分][2.59GB/9.17GB][2016]"
+                                       rel="bookmark" target="_blank">
+                            [湄公河行动][BD-720P/1080P-MKV][国语中字][豆瓣8.0分][2.59GB/9.17GB][2016]
+                        </a></li><li class="clearfix  topthree">
+                            <div class="top_number">05</div>
+                            <a href="http://www.btdx8.com/torrent/busanhaeng_2016.html"
+                               title="[釜山行][BD-720P-MKV][韩语中字][豆瓣8.2分][1.59GB][2016]"
+                               rel="bookmark" target="_blank">
+                                [釜山行][BD-720P-MKV][韩语中字][豆瓣8.2分][1.59GB][2016]
                             </a></li>
                             <li class="clearfix  topthree">
-                                <div class="top_number">03</div><a class="yingchang" href="http://www.btdx8.com/torrent/la_la_land_2016.html"
-                                                                   title="[爱乐之城][DVD-MP4][英语中字][豆瓣8.9分][1.56GB][2016]"
-                                                                   rel="bookmark" target="_blank"> [爱乐之城][DVD-MP4][英语中字]
-                                [豆瓣8.9分][1.56GB][2016]
-                            </a></li>
-                            <li class="clearfix  topthree"><div class="top_number1">04</div>
-                                <a class="yingchang" href="http://www.btdx8.com/torrent/silent_separation_2015.html"
-                                   title="[何以笙箫默][HD-720P/1080P-MP4][国语中字][豆瓣3.5分][2.0GB/2.4GB][2015]"
-                                   rel="bookmark" target="_blank"> [何以笙箫默][HD-720P/1080P-MP4][国语中字][豆瓣3.5分]
-                                    [2.0GB/2.4GB][2015]
+                                <div class="top_number">06</div>
+                                <a href="http://www.btdx8.com/torrent/jason_bourne_2016.html"
+                                   title="[谍影重重5][BD-720P/1080P-MP4][英语特效中字][豆瓣7.3分][1.7GB/4.0GB][2016]"
+                                   rel="bookmark" target="_blank">
+                                    [谍影重重5][BD-720P/1080P-MP4][英语特效中字][豆瓣7.3分][1.7GB/4.0GB][2016]
+                                </a></li><li class="clearfix  topthree">
+                            <div class="top_number">07</div>
+                            <a href="http://www.btdx8.com/torrent/call_of_heroes_2016.html"
+                               title="[危城][BD-720P/1080P-MKV][国粤双语中字][豆瓣5.6分][2.84GB/4.57GB][2016]"
+                               rel="bookmark" target="_blank">
+                                [危城][BD-720P/1080P-MKV][国粤双语中字][豆瓣5.6分][2.84GB/4.57GB][2016]
+                            </a></li><li class="clearfix  topthree">
+                            <div class="top_number">08</div>
+                            <a href="http://www.btdx8.com/torrent/a_time_for_consequences_2015.html"
+                               title="[杀破狼2][BD-720P/1080P-MP4][国语中字][豆瓣7.4分][2.4GB/6.2GB][2015]"
+                               rel="bookmark" target="_blank">
+                                [杀破狼2][BD-720P/1080P-MP4][国语中字][豆瓣7.4分][2.4GB/6.2GB][2015]
+                            </a></li><li class="clearfix  topthree">
+                            <div class="top_number">09</div>
+                            <a href="http://www.btdx8.com/torrent/suicide_squad_2016.html"
+                               title="[自杀小队 加长版][BD-720P-MP4][英语中字][豆瓣6.1分][1.88GB][2016]"
+                               rel="bookmark" target="_blank">
+                                [自杀小队 加长版][BD-720P-MP4][英语中字][豆瓣6.1分][1.88GB][2016]
+                            </a></li><li class="clearfix  topthree">
+                            <div class="top_number">10</div>
+                            <a href="http://www.btdx8.com/torrent/deadpool_2016.html"
+                               title="[死侍][BD-720P/1080P-MP4][英语中字][豆瓣7.5分][2.2GB/5.4GB][2016]"
+                               rel="bookmark" target="_blank">
+                                [死侍][BD-720P/1080P-MP4][英语中字][豆瓣7.5分][2.2GB/5.4GB][2016]</a></li>
+                            <li class="clearfix ">
+                                <div class="top_number1">11</div>
+                                <a href="http://www.btdx8.com/torrent/mr_six_2015.html"
+                                   title="[老炮儿][BD-720P/1080P-MP4][国语中字][豆瓣8.1分][2.8GB/5.7GB][2015]"
+                                   rel="bookmark" target="_blank">
+                                    [老炮儿][BD-720P/1080P-MP4][国语中字][豆瓣8.1分][2.8GB/5.7GB][2015]</a></li>
+                            <li class="clearfix ">
+                                <div class="top_number1">12</div>
+                                <a href="http://www.btdx8.com/torrent/mad_max_fury_road_2015.html"
+                                   title="[疯狂的麦克斯4：狂暴之路][BD-720P/1080P-MP4][英语特效中字][豆瓣8.5分][2.4GB/5.1GB][2015]"
+                                   rel="bookmark" target="_blank">
+                                    [疯狂的麦克斯4：狂暴之路][BD-720P/1080P-MP4][英语特效中字][豆瓣8.5分][2.4GB/5.1GB][2015]
                                 </a></li>
-                            <li class="clearfix  topthree"><div class="top_number1">
-                                05</div><a class="yingchang" href="http://www.btdx8.com/torrent/our_times_2015.html" title="[我的少女时代]
-            [BD-720P/1080P-MP4][国语中字][豆瓣8.0分][2.8GB/5.7GB][2015]" rel="bookmark" target="_blank">
-                                [我的少女时代][BD-720P/1080P-MP4][国语中字][豆瓣8.0分][2.8GB/5.7GB][2015]
-                            </a></li>
-                            <li class="clearfix  topthree"><div class="top_number1">06</div>
-                                <a class="yingchang" href="http://www.btdx8.com/torrent/the_left_ear_2015.html"
-                                   title="[左耳][HD-720P/1080P-MP4][国语中字][豆瓣5.5分][2.1GB/2.5GB][2015]" rel="bookmark"
-                                   target="_blank"> [左耳][HD-720P/1080P-MP4][国语中字][豆瓣5.5分][2.1GB/2.5GB][2015]
-                                </a></li>
-                            <li class="clearfix  topthree"><div class="top_number1">07</div>
-                                <a class="yingchang" href="http://www.btdx8.com/torrent/fifty_shades_darker_2017.html"
-                                   title="[五十度黑][HD-1080P-MP4][英语中字][豆瓣4.8分][3.45GB][2017]"
-                                   rel="bookmark" target="_blank"> [五十度黑][HD-1080P-MP4][英语中字]
-                                    [豆瓣4.8分][3.45GB][2017]
-                                </a></li>
-                            <li class="clearfix  topthree">
-                                <div class="top_number1">08</div>
-                                <a class="yingchang" href="http://www.btdx8.com/torrent/fifty_shades_of_grey_2015.html"
-                                   title="[五十度灰][BD-720P/1080P-MP4][英语中字][豆瓣5.0分][2.3GB/5.5GB][2015]"
-                                   rel="bookmark" target="_blank"> [五十度灰][BD-720P/1080P-MP4][英语中字]
-                                    [豆瓣5.0分][2.3GB/5.5GB][2015]
-                                </a></li>
-                            <li class="clearfix  topthree">
-                                <div class="top_number1">
-                                    09</div><a class="yingchang" href="http://www.btdx8.com/torrent/i_belonged_to_you_2016.html"
-                                               title="[从你的全世界路过][HD-720P/1080P-MKV][国语中字][豆瓣5.5分][1.26GB/2.45GB]
-                           [2016]" rel="bookmark" target="_blank"> [从你的全世界路过][HD-720P/1080P-MKV]
-                                [国语中字][豆瓣5.5分][1.26GB/2.45GB][2016]
-                            </a></li>
-                            <li class="clearfix  topthree">
-                                <div class="top_number1">10</div>
-                                <a class="yingchang" href="http://www.btdx8.com/torrent/paradise_in_service_2014.html" title="[军中乐园]
-            [BD-720P/1080P-MP4][国语中字][豆瓣7.3分][2.5GB/5.8GB][2014]" rel="bookmark" target="_blank">
-                                    [军中乐园][BD-720P/1080P-MP4][国语中字][豆瓣7.3分][2.5GB/5.8GB][2014]
-                                </a></li>
-                    </div>
+                            <li class="clearfix ">
+                                <div class="top_number1">13</div>
+                                <a href="http://www.btdx8.com/torrent/cold_war_2_2016.html"
+                                   title="[寒战2][BD-720P/1080P-MP4][粤国双语中字][豆瓣7.0分][2.4GB/5.0GB][2016]"
+                                   rel="bookmark" target="_blank">
+                                    [寒战2][BD-720P/1080P-MP4][粤国双语中字][豆瓣7.0分][2.4GB/5.0GB][2016]</a></li>
+                            <li class="clearfix "><div class="top_number1">14</div>
+                                <a href="http://www.btdx8.com/torrent/warcraft_2016.html"
+                                   title="[魔兽][BD-720P/1080P-MP4][英语中字][豆瓣7.9分][2.6GB/6.1GB][2016]"
+                                   rel="bookmark" target="_blank">
+                                    [魔兽][BD-720P/1080P-MP4][英语中字][豆瓣7.9分][2.6GB/6.1GB][2016]</a></li>
+                            <li class="clearfix ">
+                                <div class="top_number1">15</div>
+                                <a href="http://www.btdx8.com/torrent/kingsman_the_secret_service_2014.html"
+                                   title="[王牌特工：特工学院][HD-720P/1080P-MP4][英语中字][豆瓣8.4分][2.3GB/4.5GB][2014]"
+                                   rel="bookmark" target="_blank">
+                                    [王牌特工：特工学院][HD-720P/1080P-MP4][英语中字][豆瓣8.4分][2.3GB/4.5GB][2014]</a></li>
+                            <li class="clearfix "><div class="top_number1">16</div>
+                                <a href="http://www.btdx8.com/torrent/chronicles_of_the_ghostly_tribe_2015.html"
+                                   title="[九层妖塔][BD-720P/1080P-MP4][国语中字][豆瓣4.3分][2.5GB/5.9GB][2015]"
+                                   rel="bookmark" target="_blank">
+                                    [九层妖塔][BD-720P/1080P-MP4][国语中字][豆瓣4.3分][2.5GB/5.9GB][2015]</a></li>
+
+                        </ul> </div>
                 </div>
                 <div >
-                    <img src="../img/yaobud%20(2).gif" style="width: 300px;height: 330px">
+
                 </div>
             </div>
 
 
         </div></div></div>
+       <div class="L222">
+           <button><a><<<</a></button>
+           <button><a>1</a></button>
+           <button><a>2</a></button>
+           <button><a>3</a></button>
+           <button>...</button>
+           <button><a>30</a></button>
+           <button><a>31</a></button>
+           <button><a>32</a></button>
+          <button> <a>>>></button>
+       </div>
 <div id="footer">
     <div class="wrap">
         <p>© 2017 <a href="http://www.btdx8.com/" title="BT兔子" rel="home">

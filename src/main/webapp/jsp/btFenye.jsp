@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>比特大雄_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="../css1/bt1.css"rel="stylesheet" type="text/css">
+    <link href="../css1/bt1.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -135,7 +135,7 @@
                     又名: 型人狗仔队(港)<br> IMDb链接: tt5194226</div>
                 </div>
             </div>
-                <div style="color: orangered;font-family: 黑体;font-size: 18px;"><h3>|浪骚年简介和剧情截图</h3>
+                <div style="color: orangered;font-family: 黑体;font-size: 18px;"><h3>|狼少年简介和剧情截图</h3>
 
                 </div>
                 <div style="font-family: 黑体;font-size: 15px;">&nbsp;
@@ -157,7 +157,7 @@
                 </div>
                 <div id="a-1"><img src="../img/shatan.jpg" style="width: 100%;height: 300px">
                  <div id="a-2" style="color: orangered;font-family: 黑体;font-size: 18px;">
-                     <h3>|浪骚年bt下载/迅雷下载地址</h3>
+                     <h3>|狼少年bt下载/迅雷下载地址</h3>
                 </div>
                 <div class="a-3" >
                     <div class="a-5">
@@ -166,7 +166,7 @@
                 </a>
                     </div>
                     <div class="a-6">
-                        <a href="http://www.btdx8.com/">[浪骚年][BD-720P-RMVB][韩语中字][豆瓣7.8分][1.3GB][2012].torrent</a>
+                        <a href="http://www.btdx8.com/">[狼少年][BD-720P-RMVB][韩语中字][豆瓣7.8分][1.3GB][2012].torrent</a>
                    </div>
                 </div>
                      <div class="a-3" >
@@ -176,7 +176,7 @@
                 </a>
                     </div>
                     <div class="a-6">
-                        <a href="http://www.btdx8.com/">[浪骚年 加长版][BD-720P-RMVB][韩语中字][豆瓣7.8分][1.3GB][2012].torrent</a>
+                        <a href="http://www.btdx8.com/">[狼少年 加长版][BD-720P-RMVB][韩语中字][豆瓣7.8分][1.3GB/2.7GB][2012].torrent</a>
                    </div>
                 </div>
                     <div style="background-color: white;height: 40px;margin-top: 20px;padding-top: 15px">
@@ -409,12 +409,12 @@
 <%--底部--%>
         <div id="footer">
             <div class="wrap">
-            <p>© 2017 <a href="http://www.btdx8.com/" title="BT兔子" rel="home">
-                <strong>BT兔子</strong></a>. All rights reserved.</p>
-            <p></p><p><a href="http://www.btdx8.com/" title="比特大雄" rel="home">BT兔子</a>
-            （BT天堂吧）——最新<a href="http://www.btdx8.com/">720P</a>、<a href="http://www.btdx8.com/">
-                1080P</a><a href="http://www.btdx8.com/">高清电影BT种子</a>免注册下载网站</p>
-            <p>本站所有资源来自互联网，如果无意中侵犯了您的权利，请与我们联系：hibttt8@gmail.com</p>
+                <p>鑫视界资源网欢迎您!</p>
+                <p> 2017 <a href="#" title="鑫视界" rel="home">
+                    <strong>鑫视界</strong></a>.Download the update</p>
+                <p><a href="#" title="鑫视界" rel="home">鑫视界</a>
+                    （BT资源网）===最新720P·1080P高清·电影BT种子·免注册下载网站</p>
+                <p>本站所有资源来自互联网，如果无意中侵犯了您的权利，请联系邮箱：gmlsuccess@163.com</p>
             </div></div>
 </body>
 </html>

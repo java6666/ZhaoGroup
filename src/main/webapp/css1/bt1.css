@@ -139,7 +139,6 @@ a:-webkit-any-link {
     width: 70%;
     float: left;
     height: 1600px;
-    background-color: beige;
 }
 #a-5{
     float: left;
@@ -326,7 +325,10 @@ a:hover{
     height: 120px;
     text-align: center;
     color: #dddddd;
-    background-color: #222222;
+    background-color: darkslategray;
+}
+#footer a{
+    color: darkblue;
 }
 .wrap{
     font-size: 13px;
@@ -347,7 +349,30 @@ a:hover{
     float: left;
 }
 .daxiao3{
+    margin-left:3%;
     height: 150px;
-    width: 85.8%;
+    width: 80%;
     float: left;
+}
+.cc{
+    color: orangered;
+    font-size: 16px;
+    overflow: hidden;
+}
+.L222{
+    text-align: center;
+    float: left;
+width: 100%;
+    height: 10px;
+}
+.cc9{
+    color: orangered;font-size: 16px;
+
+}
+.cc8{
+    width: 100%;
+    height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }

@@ -13,7 +13,7 @@
 </head>
 
 <body>
-
+<%--顶部系统栏--%>
         <div id="top">
             <div class="t_cmainbar">
                 <div class="t_container">
@@ -35,8 +35,18 @@
             </div>
         </div>
     </div>
+
+
+
         <div id="Container">
+
+
+
+            <%--左边空白--%>
     <div id="Logo"></div>
+
+
+             <%--log图和搜索框--%>
     <div id="Content">
         <div id="one"><a><img src="../img/logo.png"style="width: 250px;height: 50px;"></a></div>
         <div id="two">
@@ -54,8 +64,16 @@
         <%--<div id="Content-Left">Content-Left</div>
         <div id="Content-Main">Content-Main</div>--%>
     </div>
+
+
+                <%--左边空白--%>
     <div id="z-1-3"></div>
+
+
+
+              <%--布局--%>
     <div id="z-1-4">
+        <%--导航栏--%>
         <div id="z-1-4-1">
             <div id="GPS">
                 <div class="Toolbar1">
@@ -82,8 +100,13 @@
                 </div>
             </div>
         </div>
-        <div id="z-1-4-2">
-            <span id="z-1-4-2-1">
+
+
+
+            <%--布局--%>
+            <div id="z-1-4-2">
+                <%--中间内容--%>
+            <div id="z-1-4-2-1">
                 <span>当前位置：</span>
                 <hr width="100%" color="orange">
             <div id="z-1-4-2-2"><h3 class="s-3">
@@ -159,6 +182,9 @@
                     <div style="background-color: white;height: 40px;margin-top: 20px;padding-top: 15px">
                         下载提示：推荐使用迅雷离线或百度云盘离线下载，迅雷会员帐号请自行百度一下，有很多。
                     </div>
+
+
+                    <%--底部推荐--%>
                     <div><h3>喜欢这部电影的人也喜欢<hr color="orangered"></h3>
                          <div id="cai_ni_xi_huan1">
                     <ul class="txt-list"type="none" style="font-size: 13px;">
@@ -244,7 +270,11 @@
          </div>
 
          </div>
-        </div>
+            </div></div>
+
+
+
+            <%--右边部分--%>
 <div id="a-5">
     <div><img src="../img/544.gif"style="width: 100%;height: 350px"></div>
     <div>
@@ -361,15 +391,22 @@
             [BD-720P/1080P-MP4][国语中字][豆瓣7.3分][2.5GB/5.8GB][2014]" rel="bookmark" target="_blank">
                 [军中乐园][BD-720P/1080P-MP4][国语中字][豆瓣7.3分][2.5GB/5.8GB][2014]
             </a></li>
+        </ul>
         </div>
 </div>
-        <div >
+        <div>
             <img src="../img/yaobud%20(2).gif" style="width: 300px;height: 330px">
         </div>
     </div>
 
 
 </div></div></div>
+
+
+
+
+
+<%--底部--%>
         <div id="footer">
             <div class="wrap">
             <p>© 2017 <a href="http://www.btdx8.com/" title="BT兔子" rel="home">

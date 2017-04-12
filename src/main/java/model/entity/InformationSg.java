@@ -1,12 +1,18 @@
 package model.entity;
 
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /*跳转信息的实体类*/
 public class InformationSg {
     private Integer id;//本身的主键
+
     private  Integer oneid; //首页的主键
+    private  Integer actionid;//动作片的外键
+    private  Integer crimeid;//犯罪片的外键
+
+
     private  String director;//导演
     private  String compile;//编剧
     private  String filmactor;//主演
@@ -15,6 +21,33 @@ public class InformationSg {
     private String  region;//地区
     private  String language;//语言
     private Date   releasedate;//时间
+
+    private String date;//时间转换的
+
+    public InformationSg(){
+
+    }
+    public InformationSg(String director, String compile, String filmactor, String filmtype, String website, String region, String language, Date releasedate) {
+        this.director = director;
+        this.compile = compile;
+        this.filmactor = filmactor;
+        this.filmtype = filmtype;
+        this.website = website;
+        this.region = region;
+        this.language = language;
+        this.releasedate = releasedate;
+
+    }
+
+    public String getDate() {
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        date=simpleDateFormat.format(this.getReleasedate());
+        return date;
+    }
+
+    public void setDate(String date) {
+        this.date = date;
+    }
 
     public Integer getId() {
         return id;
@@ -102,5 +135,21 @@ public class InformationSg {
 
     public void setReleasedate(Date releasedate) {
         this.releasedate = releasedate;
+    }
+
+    public Integer getActionid() {
+        return actionid;
+    }
+
+    public void setActionid(Integer actionid) {
+        this.actionid = actionid;
+    }
+
+    public Integer getCrimeid() {
+        return crimeid;
+    }
+
+    public void setCrimeid(Integer crimeid) {
+        this.crimeid = crimeid;
     }
 }

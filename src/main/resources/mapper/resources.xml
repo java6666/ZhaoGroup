@@ -3,7 +3,34 @@
 <mapper namespace="model.dao.BtDao" >
 
 
-    <select id="showAll" resultType="model.entity.BtSg">
+<!--添加-->
+    <resultMap id="mvp" type="model.entity.BtSg">
+        <id column="id" property="id"/>
+        <result property="btname" column="btname"/>
+
+        <association property="informationSg" javaType="model.entity.InformationSg">
+          <id column="id" property="id"/>
+           <result column="oneid" property="oneid"/>
+            <result column="director" property="crimeid"/>
+            <result column="compile" property="compile"/>
+            <result column="filmactor" property="filmactor"/>
+            <result column="filmtype" property="filmtype"/>
+            <result column="website" property="website"/>
+            <result column="region" property="region"/>
+            <result column="language" property="language"/>
+            <result column="releasedate" property="releasedate"/>
+
+        </association>
+        
+    </resultMap>
+
+    <insert id="insertBt" useGeneratedKeys="true" keyProperty="id">
+    INSERT INTO `one`(btname) VALUES (#{btname})
+    </insert>
+
+
+<!--显示-->
+    <select id="showAll" resultMap="mvp">
        SELECT *FROM `one`
     </select>
 </mapper>

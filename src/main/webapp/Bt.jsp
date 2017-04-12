@@ -10,7 +10,7 @@
 <tr>
     <td><a href="/showBt">首页</a></td>
     <td><a href="/page">动作片</a></td>
-    <td><a href="/showCrime">犯罪片</a></td>
+    <td><a href="/crimePage">犯罪片</a></td>
 </tr>
 <table border="3">
     <c:forEach items="${requestScope.list}" var="f">

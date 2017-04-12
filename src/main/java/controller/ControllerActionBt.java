@@ -11,6 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.annotation.Resource;
 import java.lang.reflect.Method;
@@ -34,6 +35,15 @@ public class ControllerActionBt {
         PageInfo  pageInfo = new PageInfo<>(paging);
         model.addAttribute("pageInfo",pageInfo);
         return "action.jsp";
+    }
+    /*添加动作片*/
+    @RequestMapping("/insertAction")
+    public String insertAction(String actionname,String introduce){
+        actionSg actionSg = new actionSg();
+        actionSg.setActionname(actionname);
+        actionSg.setIntroduce(introduce);
+        actionDao.insertAction(actionSg);
+        return "BtInsert.jsp";
     }
 
 

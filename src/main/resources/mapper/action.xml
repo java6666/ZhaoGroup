@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="model.dao.ActionDao" >
+    <!--添加-->
+    <insert id="insertAction">
+        INSERT INTO `action`(actionname,introduce)VALUES (#{actionname},#{introduce})
+    </insert>
 
- <!--动作片-->
+    <!--动作片-->
     <select id="page" resultType="model.entity.actionSg">
         SELECT *FROM `action`
     </select>
 
-    <!--犯罪片-->
-    <select id="crime" resultType="model.entity.CrimeSg">
-      SELECT *FROM `crime`
-    </select>
 </mapper>

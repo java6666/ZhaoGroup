@@ -12,4 +12,5 @@ import java.util.List;
 @Repository
 public interface ActionDao {
     List<actionSg>page(actionSg actionSg);/*动作片分页*/
+    boolean insertAction(actionSg actionSg);/*添加动作片*/
 }

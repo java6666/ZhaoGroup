@@ -2,7 +2,15 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="model.dao.InForBtDao" >
 
-   <!--来显示电影内容-->
+<!--添加服务-->
+    <insert id="insertShowInfor">
+    INSERT  INTO `two`(oneid,actionid,crimeid,director,compile,filmactor,
+    filmtype,website,region,`language`,releasedate) VALUES (#{oneid},#{actionid},
+    #{crimeid},#{director},#{compile},#{filmactor},#{filmtype},#{website},#{region},
+    #{language},#{releasedate})
+    </insert>
+
+    <!--来显示电影内容-->
     <select id="showInfor" resultType="model.entity.InformationSg">
         SELECT *FROM `two`WHERE oneid=#{id}
     </select>

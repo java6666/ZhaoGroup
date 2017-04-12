@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="model.dao.ActionDao" >
     <!--添加-->
-    <insert id="insertAction">
+    <insert id="insertAction" useGeneratedKeys="true" keyProperty="id">
         INSERT INTO `action`(actionname,introduce)VALUES (#{actionname},#{introduce})
     </insert>
 

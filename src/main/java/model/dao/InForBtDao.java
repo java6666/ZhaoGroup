@@ -13,4 +13,7 @@ public interface InForBtDao {
     List<InformationSg>showAction(Integer id);/*显示动作片*/
     List<InformationSg>showCrime(Integer id);/*显示犯罪片*/
 
+
+    boolean insertShowInfor(InformationSg informationSg); /*添加*/
+
 }

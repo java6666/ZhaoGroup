@@ -1,20 +1,14 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: hero
-  Date: 2017/4/10
-  Time: 19:05
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>比特大雄_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="../css1/bt1.css"rel="stylesheet" type="text/css">
+    <link href="/css02/style02/bt1.css"rel="stylesheet" type="text/css">
 </head>
 
 <body>
 
-<%--/*顶部栏*/--%>
+<%--顶部--%>
 <div id="top">
     <div class="t_cmainbar">
         <div class="t_container">
@@ -36,20 +30,13 @@
         </div>
     </div>
 </div>
-
-
-
 <div id="Container">
-    <%--左空白--%>
+
+
+    <%--log图 搜索框--%>
     <div id="Logo"></div>
-
-
-
     <div id="Content">
-
-
-        <%--log图 搜索框--%>
-        <div id="one"><a><img src="../img/logo.png"style="width: 250px;height: 50px;"></a></div>
+        <div id="one"><a><img src="../css02/img/logo.png"style="width: 250px;height: 50px;"></a></div>
         <div id="two">
             <form method="get" id="searchform" action="http://www.btdx8.com/">
                 <div id="z-1-1">
@@ -65,11 +52,7 @@
         <%--<div id="Content-Left">Content-Left</div>
         <div id="Content-Main">Content-Main</div>--%>
     </div>
-
-
     <div id="z-1-3"></div>
-
-
     <div id="z-1-4">
 
         <%--导航栏--%>
@@ -102,7 +85,7 @@
 
 
 
-            <%--中间内容--%>
+        <%--中间内容--%>
         <div id="z-1-4-2">
             <div id="z-1-4-2-1">
             <span>当前位置：</span>
@@ -111,14 +94,16 @@
          <div>
              <div class="daxiao">
           <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
           </div>
-          <div class="daxiao3"><div class="cc8">
-                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
-                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
-                     rel="bookmark" target="_blank">
-                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
-          </div>
+          <div class="daxiao3">
+              <div class="cc8">
+                 <a href="http://www.btdx8.com/torrent/dias_police_dirty_yellow_boys_2016.html"
+                    title="[异邦警察 电影版][BD-720P/1080P-MP4][日语中字][豆瓣6.0分][1.71GB/3.97GB][2016]"
+                    rel="bookmark" target="_blank">
+                     <span class="cc9">[异邦警察 电影版][BD-720P/1080P-MP4][日语中字][豆瓣6.0分][1.71GB/3.97GB][2016]</span> </a>
+              </div>
+
                 <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
               <br/>
               <span style="font-size: 15px">
@@ -129,7 +114,64 @@
          </div><hr/>
              <div class="daxiao">
  <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3">
+              <div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+              </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3">
+              <div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+              </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
+          </div>
+          <div class="daxiao3">
+              <div class="cc8">
+                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
+                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
+                     rel="bookmark" target="_blank">
+                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
+
+              </div>
+                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
+              <br/>
+              <span style="font-size: 15px">
+              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
+                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
+                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
+          </div>
+         </div><hr/><div class="daxiao">
+ <div class="daxiao1">
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
           </div>
           <div class="daxiao3"><div class="cc8">
                   <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
@@ -147,7 +189,7 @@
           </div>
          </div><hr/><div class="daxiao">
  <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
           </div>
           <div class="daxiao3"><div class="cc8">
                   <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
@@ -165,7 +207,7 @@
           </div>
          </div><hr/><div class="daxiao">
  <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
           </div>
           <div class="daxiao3"><div class="cc8">
                   <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
@@ -183,7 +225,7 @@
           </div>
          </div><hr/><div class="daxiao">
  <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
           </div>
           <div class="daxiao3"><div class="cc8">
                   <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
@@ -201,61 +243,7 @@
           </div>
          </div><hr/><div class="daxiao">
  <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
-          </div>
-          <div class="daxiao3"><div class="cc8">
-                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
-                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
-                     rel="bookmark" target="_blank">
-                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
-
-          </div>
-                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
-              <br/>
-              <span style="font-size: 15px">
-              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
-                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
-                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
-          </div>
-         </div><hr/><div class="daxiao">
- <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
-          </div>
-          <div class="daxiao3"><div class="cc8">
-                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
-                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
-                     rel="bookmark" target="_blank">
-                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
-
-          </div>
-                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
-              <br/>
-              <span style="font-size: 15px">
-              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
-                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
-                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
-          </div>
-         </div><hr/><div class="daxiao">
- <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
-          </div>
-          <div class="daxiao3"><div class="cc8">
-                  <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
-                     title="[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]"
-                     rel="bookmark" target="_blank">
-                     <span class="cc9">[金刚：骷髅岛][HD-1080P-MP4][英语中字][豆瓣6.8分][3.49GB][2017]</span> </a>
-
-          </div>
-                <span style="color: dimgrey;font-size: 13px">最后更新：2017年9月|4条评论</span>
-              <br/>
-              <span style="font-size: 15px">
-              上世纪70年代，一支集结了科考队员、探险家、战地摄影记者、军人的探险队，
-                  冒险前往南太平洋上的神秘岛屿——骷髅岛。他们的到来惊扰了岛上之神——史上最大金刚。
-                  经过一番惨烈的激战之后，探险队员散落在了岛屿各处。...</span>
-          </div>
-         </div><hr/><div class="daxiao">
- <div class="daxiao1">
-              <a><img src="../img/jin_gang.jpg" style="width: 100%"></a>
+              <a><img src="../css02/img/jin_gang.jpg" style="width: 100%"></a>
           </div>
           <div class="daxiao3"><div class="cc8">
                   <a href="http://www.btdx8.com/torrent/kong_skull_island_2017.html"
@@ -280,7 +268,8 @@
         </div>
 
 
-            <%--右边--%>
+
+        <%--右边--%>
         <div id="a-5">
             <div>
                 <h3>最新专题<hr color="orangered"></h3>
@@ -434,14 +423,13 @@
 
                         </ul> </div>
                 </div>
-                <div >
+                <div>
 
                 </div>
             </div>
 
 
-        </div></div>
-</div>
+        </div></div></div>
 
 <%--底部--%>
        <div class="L222">

@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>鑫视界_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="/css/bootstrap.css" rel="stylesheet" type="text/css"/>
     <link href="css/style/bt.css" rel="stylesheet" type="text/css"/>
-    <script src="/jquery/jquery-2.2.4.min.js" type="text/javascript"></script>
+
 </head>
 <body>
 <!--顶部第一部分-->
@@ -87,7 +86,7 @@
                     <div class="cat-title"><h2>今日热门</h2></div>
                     <div class="slider">
                         <ul>
-                            <li><a href="#" title="[太空旅人][BD-720P/1080P-MP4][英语中字][豆瓣7.2分][1.36GB/4.5GB][2016] BT种子"
+                            <li><a href="/btFenye.jsp" title="[太空旅人][BD-720P/1080P-MP4][英语中字][豆瓣7.2分][1.36GB/4.5GB][2016] BT种子"
                                    rel="bookmark" target="_blank">
                                 <img src="css/images/01.jpg"
                                      alt="[太空旅人][BD-720P/1080P-MP4][英语中字][豆瓣7.2分][1.36GB/4.5GB][2016]" height="150"

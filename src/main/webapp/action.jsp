@@ -23,7 +23,6 @@
               </tr>
          </c:forEach>
   </table>
-  <div>
       <c:if test="${requestScope.pageInfo.hasPreviousPage}">
           <li>
               <form action="/page" method="post">
@@ -41,6 +40,5 @@
               </form>
           </li>
       </c:if>
-
 </body>
 </html>

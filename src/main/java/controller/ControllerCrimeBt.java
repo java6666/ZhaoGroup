@@ -15,7 +15,7 @@ import java.util.List;
 /*犯罪片*/
 @Controller
 public class ControllerCrimeBt {
-    static  final Integer PACE_SIZE=2;
+    static  final Integer PACE_SIZE=1;
     @Resource
     private CrimeDao crimeDao;
 
@@ -26,7 +26,7 @@ public class ControllerCrimeBt {
         CrimeSg crimeSg = new CrimeSg();
         List<CrimeSg> crime = crimeDao.crime(crimeSg);
         PageInfo PageInfo = new PageInfo<>(crime);
-        model.addAttribute("crimePage",PageInfo);
+        model.addAttribute("PageCrime",PageInfo);
         return "crime.jsp";
 
     }

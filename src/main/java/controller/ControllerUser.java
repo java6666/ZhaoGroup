@@ -16,9 +16,9 @@ public class ControllerUser {
         String usename = request.getParameter("username");
         String password = request.getParameter("password");
         if (userSg.getUsername().equals(usename)&&userSg.getPassword().equals(password)){
-            return "/BtInsert.jsp";
+            return "/insert/display.jsp";
         }else {
-            return "user.jsp";
+            return "/insert/user.jsp";
         }
     }
 }

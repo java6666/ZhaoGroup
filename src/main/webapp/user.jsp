@@ -3,30 +3,9 @@
 <html>
 <head>
     <title>后台管理登录界面</title>
-    <%--<link href="<c:url value="/css/bootstrap.css"/>" rel="stylesheet">--%>
     <link href="<c:url value="/css/style/login.css"/>" type="text/css" rel="stylesheet">
  </head>
  <body>
- <%--<div class="container">
-     <div class="row">
-     <div class="col-xs-4">
- <form action="/user" method="post">
-     <div class="form-group">
-         <label>用户名:</label>
-         <input name="username"  class="form-control"><br/>
-     </div>
-     <div class="form-group">
-         <label>密码:</label>
-     <input name="password"  class="form-control"><br/>
-     </div>
-     <button>登录</button>
-</form>
-     </div>
-     </div>
- </div>
-</body>
-</html>
---%>
  <div class="login">
      <div class="message">管理员-管理登录</div>
      <div id="darkbannerwrap"></div>
@@ -41,10 +20,5 @@
          <!-- 帮助 <a onClick="alert('请联系管理员')">忘记密码</a> -->
      </form>
  </div>
-
-<%-- <div class="copyright">© 2016品牌名称 by
-     <a href="http://www.mycodes.net/" target="_blank">源码之家</a>
- </div>--%>
-
  </body>
 </html>

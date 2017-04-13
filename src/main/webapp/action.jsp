@@ -9,7 +9,7 @@
 <tr>
     <td><a href="/showBt">首页</a></td>
     <td><a href="/page">动作片</a></td>
-    <td><<a href="/crimePage">犯罪片</a></td>
+    <td><a href="/crimePage">犯罪片</a></td>
 </tr>
   <table border="2">
          <c:forEach items="${requestScope.pageInfo.list}" var="e">

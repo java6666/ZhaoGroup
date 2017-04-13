@@ -4,15 +4,6 @@ package model.entity;
 public class BtSg {
     private Integer id;
     private String btname;
-    private InformationSg informationSg;
-
-    public InformationSg getInformationSg() {
-        return informationSg;
-    }
-
-    public void setInformationSg(InformationSg informationSg) {
-        this.informationSg = informationSg;
-    }
 
     public Integer getId() {
         return id;

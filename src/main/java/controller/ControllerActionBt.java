@@ -39,7 +39,7 @@ public class ControllerActionBt {
         return "action.jsp";
     }
     /*添加动作片*/
-/*
+
 
     @RequestMapping(value = "/insertAction", method = RequestMethod.POST)
     public String saveS(actionSg actionSg, String actionname, String introduce,
@@ -65,7 +65,7 @@ public class ControllerActionBt {
         inForBtDao.insertShowInfor(infor);
         return "/insert/BtInsert.jsp";
     }
-*/
+
 
 }
 

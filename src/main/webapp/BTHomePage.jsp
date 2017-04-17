@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>鑫视界_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
-    <link href="css/style/bt.css" rel="stylesheet" type="text/css"/>
+    <link href="/css/style/bt.css" rel="stylesheet" type="text/css"/>
+    <script src="/jquery/jquery-2.2.4.min.js"></script>
 
 </head>
 <body>
@@ -634,7 +635,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div><div id="return-top" ><a href="#" style="color: white;font-size: 14px;">返回顶部</a></div>
     </div>
 
 </div>
@@ -651,5 +652,23 @@
         <p>本站所有资源来自互联网，如果无意中侵犯了您的权利，请联系邮箱：gmlsuccess@163.com</p></div>
 </div>
 
+
+<script>
+    $(function(){
+        $('#return-top').hide();
+        $(function(){
+            $(window).scroll(function(){
+                if($(window).scrollTop()>300){
+                    $('#return-top').fadeIn(300);
+                }
+                else{$('#return-top').fadeOut(200);}
+            });
+            $('#return-top').click(function(){
+                $('body,html').animate({scrollTop:0},300);
+                return false;
+            })
+        })
+    })
+</script>
 </body>
 </html>

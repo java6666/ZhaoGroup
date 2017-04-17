@@ -4,6 +4,9 @@
 <head>
     <title>比特大雄_BT天堂_最新720P、1080P高清电影BT种子免注册下载网站</title>
     <link href="/css02/style02/bt1.css"rel="stylesheet" type="text/css">
+    <script src="/jquery/jquery-2.2.4.min.js"></script>
+
+
 </head>
 
 <body>
@@ -149,8 +152,10 @@
                     的人分离的现实。
                 <br/> 该片为导演赵成熙的首部商业电影处女作。
                 </div>
-                <div id="a-1"><img src="../css02/img/shatan.jpg" style="width: 100%;height: 300px">
-                 <div id="a-2" style="color: orangered;font-family: 黑体;font-size: 18px;">
+                <div id="a-1">
+                    <img src="../css02/img/shatan.jpg" style="width: 100%;height: 300px">
+
+                        <div id="a-2" style="color: orangered;font-family: 黑体;font-size: 18px;">
                      <h3>|浪骚年bt下载/迅雷下载地址</h3>
                 </div>
                 <div class="a-3" >
@@ -410,5 +415,6 @@
                     （BT资源网）===最新720P·1080P高清·电影BT种子·免注册下载网站</p>
                 <p>本站所有资源来自互联网，如果无意中侵犯了您的权利，请联系邮箱：gmlsuccess@163.com</p>
             </div></div>
+
 </body>
 </html>

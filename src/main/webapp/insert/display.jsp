@@ -11,10 +11,12 @@
 <head>
     <title>后台展现功能</title>
 </head>
-<body>
-<div>
-  <a href="/insert/BtInsert.jsp">添加</a>
-</div>
+<body style="background-color: #52dad1">
+
+     <span >
+        <a href="/insert/BtInsert.jsp"><span style="color: red"><h1>添加</h1></span></a>
+        <a href="/modify/Btmodify.jsp"><h1>首页修改</h1></a>
+     </span>
 
 </body>
 </html>

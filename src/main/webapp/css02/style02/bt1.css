@@ -322,17 +322,19 @@ a:hover{
 }
 
 /*结尾部分样式*/
-
 #footer{
     float: left;
     width: 100%;
     height: 120px;
     text-align: center;
-    color: white;
-    background: darkslategray;
+    color: #dddddd;
+    background-color: darkslategray;
 }
 #footer a{
     color: darkblue;
+}
+.wrap{
+    font-size: 13px;
 }
 
 

@@ -7,21 +7,6 @@
     <resultMap id="mvp" type="model.entity.BtSg">
         <id column="id" property="id"/>
         <result property="btname" column="btname"/>
-
-        <association property="informationSg" javaType="model.entity.InformationSg">
-          <id column="id" property="id"/>
-           <result column="oneid" property="oneid"/>
-            <result column="director" property="crimeid"/>
-            <result column="compile" property="compile"/>
-            <result column="filmactor" property="filmactor"/>
-            <result column="filmtype" property="filmtype"/>
-            <result column="website" property="website"/>
-            <result column="region" property="region"/>
-            <result column="language" property="language"/>
-            <result column="releasedate" property="releasedate"/>
-
-        </association>
-        
     </resultMap>
 
     <insert id="insertBt" useGeneratedKeys="true" keyProperty="id">
@@ -29,8 +14,22 @@
     </insert>
 
 
-<!--显示-->
+    <!--显示-->
     <select id="showAll" resultMap="mvp">
        SELECT *FROM `one`
     </select>
+
+    <select id="showAll1" resultMap="mvp">
+    SELECT *FROM `one`
+    </select>
+
+       <!--通过主键来修改-->
+    <select id="changeBt" resultMap="mvp">
+        SELECT *FROM  `one` WHERE id=#{id}
+    </select>
+
+    <update id="uqdateBt">
+        UPDATE `one` SET
+        btname=#{btname} WHERE id=#{id}
+    </update>
 </mapper>

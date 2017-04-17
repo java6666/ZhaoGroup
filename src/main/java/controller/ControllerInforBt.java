@@ -45,4 +45,7 @@ public class ControllerInforBt {
         model.addAttribute("infor",crime);
         return "Infor.jsp";
     }
+
+
+
 }

@@ -35,6 +35,30 @@ public class ControllerBT {
         return "Bt.jsp";
     }
 
+
+    /*后台显示修改*/
+    @RequestMapping(value = "/goBt", method = RequestMethod.GET)
+    public String show1(Model model) {
+        List<BtSg> btSgs = btDao.showAll();
+        model.addAttribute("list", btSgs);
+        return "/modify/Btmodify.jsp";
+    }
+
+     /*通过主键来修改*/
+    @RequestMapping(value = "/changeBt",method = RequestMethod.GET)
+    public String changeBt(Integer id,Model model){
+        BtSg btSg = btDao.changeBt(id);
+         model.addAttribute("change",btSg);
+        return "/modify/Btmodify1.jsp";
+    }
+      /*修改*/
+      @RequestMapping(value = "/changeBt",method = RequestMethod.POST)
+      public String uqdateBT(BtSg btSg){
+          btDao.uqdateBt(btSg);
+          return "redirect:/goBt";
+      }
+
+
     /*添加首页和电影内容*/
     @RequestMapping(value = "/insertBtInfor", method = RequestMethod.POST)
     public String saveS(BtSg btSg, actionSg actionSg, String actionname, String introduce,
@@ -42,23 +66,22 @@ public class ControllerBT {
                         String filmtype, String website, String region, String language, String date
     ) {
         /*首页*/
+
          if (btname==""){
-              actionSg.setActionname(actionname);
-              actionSg.setIntroduce(introduce);
-              actionDao.insertAction(actionSg);
+             Action(actionSg,actionname,introduce);
           }else if (actionname==""&&introduce==""){
-              btSg.setBtname(btname);
-              btDao.insertBt(btSg);
+              Bt(btSg,btname);
           }else {
-              btSg.setBtname(btname);
-              btDao.insertBt(btSg);
-              actionSg.setActionname(actionname);
-              actionSg.setIntroduce(introduce);
-              actionDao.insertAction(actionSg);
+             Action(actionSg,actionname,introduce);
+             Bt(btSg,btname);
           }
 
+
+        btSg.setBtname(btname);
+        btDao.insertBt(btSg);
+
             Integer id = btSg.getId();/*首页id*/
-            Integer actionId = actionSg.getId();/*动作片id*/
+            Integer actionId = actionSg.getId();/*//*动作片id*/
 
 
             java.util.Date parse = null;
@@ -78,4 +101,14 @@ public class ControllerBT {
         return "/insert/BtInsert.jsp";
         }
 
+ void  Bt(BtSg btSg, String btname){
+       btSg.setBtname(btname);
+       btDao.insertBt(btSg);
+   }
+  void Action(actionSg actionSg, String actionname, String introduce){
+      actionSg.setActionname(actionname);
+      actionSg.setIntroduce(introduce);
+      actionDao.insertAction(actionSg);
+  }
 }
+
